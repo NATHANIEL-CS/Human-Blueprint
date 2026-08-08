@@ -77,7 +77,7 @@ class Male : public Human {
     }
 
     void Sports() override {
-        cout << "\n" << GetLastname() << " IS PLAYING VOLLEYBALL...." << endl;
+        cout << "\n" << GetLastname() << " IS PLAYING BASKETBALL...." << endl;
     }
 
     void Hobby() override{
