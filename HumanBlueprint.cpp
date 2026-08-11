@@ -116,7 +116,7 @@ int main()
     ptr2->Sports();
     ptr2->Hobby();
 
-    Female Three("Carol", "Aparil", "Mina", 12);
+    Female Three("X", "X", "X", 12);
     Human* ptr3 = &Three;
     Three.Introduce();
     ptr3 -> Sports();
